@@ -1,5 +1,12 @@
 body {
     text-align: center; 
-    background-color:aquamarine;
+    background-color:rgb(127, 219, 188);
 
+}
+ul {
+    display:inline-block;
+    text-align: center;
+}
+ol { display:inline-block;
+    text-align: center;
 }
